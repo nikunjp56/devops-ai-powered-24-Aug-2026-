@@ -1,6 +1,6 @@
 # DevOPS -Zero to Hero
 
-Check it out: (https://trainwithshubham.ai)
+Check it out [here](https://trainwithshubham.ai)
 
 ## Topic ( ## means sub topic)
 
