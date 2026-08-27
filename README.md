@@ -9,4 +9,3 @@ Check it out [here](https://trainwithshubham.ai)
 - Introduction to DevOps and Cloud
 - Linux for DevOps
 - Computer Networking
-- Docker
