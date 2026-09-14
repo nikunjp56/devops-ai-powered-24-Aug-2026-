@@ -2,6 +2,8 @@
 
 Check it out [here](https://trainwithshubham.ai)
 
+Note: Always do a day of assignment from #90DaysOfDevOps
+
 ## Topic ( ## means sub topic)
 
 - If i want to do list then i need to use - means Hyphend
