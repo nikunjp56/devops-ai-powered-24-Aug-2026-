@@ -21,4 +21,4 @@ Note: Always do a day of assignment from #90DaysOfDevOps
 - Jenkins
 - Kubernetes
 - AWS
-
+- Terraform
