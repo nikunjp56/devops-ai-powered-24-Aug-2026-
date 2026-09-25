@@ -22,3 +22,4 @@ Note: Always do a day of assignment from #90DaysOfDevOps
 - Kubernetes
 - AWS
 - Terraform
+- Ansible
