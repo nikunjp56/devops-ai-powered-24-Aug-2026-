@@ -18,3 +18,6 @@ Check it out [here](https://trainwithshubham.ai)
 - GitHub Actions
 - Jenkins
 - Kubernetes
+- AWS
+- Terraform
+- Ansible
